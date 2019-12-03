@@ -1,1 +1,26 @@
 /* insert you css */
+
+body{
+	background-color: #D5F6E1;
+}
+
+h1{
+	font-size: 124px;
+}
+
+.my-button {
+	background-color: #FF0000;
+}
+
+.my-button:hover {
+	background-color: #FF0000;
+}
+
+.intro-box {
+	background-color: #A4FDB9;
+	padding: 20px;
+}
+
+.intro-box p{
+	font-family: Times, serif;
+}
